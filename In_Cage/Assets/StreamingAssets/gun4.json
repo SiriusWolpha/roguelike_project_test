@@ -1,0 +1,7 @@
+{
+    "id" : 4,
+    "name" : "很能打的大手枪",
+    "bulletType" : "middle",
+    "intervalTime" : 1.0,
+    "energyCost" : 1
+}

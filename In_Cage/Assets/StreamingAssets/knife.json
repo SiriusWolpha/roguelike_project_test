@@ -1,0 +1,7 @@
+{
+    "id" : 5,
+    "name" : "很高级的刀",
+    "bulletType" : "medium",
+    "intervalTime" : 0.5,
+    "energyCost" : 0
+}

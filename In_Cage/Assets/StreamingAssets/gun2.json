@@ -1,0 +1,7 @@
+{
+    "id" : 2,
+    "name" : "Dn-SPY爆能枪",
+    "bulletType" : "small",
+    "intervalTime" : 0.1,
+    "energyCost" : 4,
+}

@@ -1,0 +1,7 @@
+{
+    "id" : 1,
+    "name" : "消音小手枪",
+    "bulletType" : "small",
+    "intervalTime" : 0.5,
+    "energyCost" : 0
+}

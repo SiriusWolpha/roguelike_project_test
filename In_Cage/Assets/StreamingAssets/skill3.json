@@ -1,0 +1,7 @@
+{
+    "id" : 3,
+    "name" : "应急绷带",
+    "description" : "恢复满护盾",
+    "skillTime" : 0,
+    "intervalTime" : 50.0,
+}

@@ -1,0 +1,9 @@
+{
+    "id" : 3,
+    "name" : "陆管炮",
+    "bulletType" : "-",
+    "intervalTime" : 0,
+    "energyCost" : 4,
+    "count1" : 30,
+    "count2" : 60,
+}

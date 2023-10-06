@@ -1,0 +1,9 @@
+{
+    "name" : "61367106",
+    "movespeed" : 2.0,
+    "Maxhp" : 12,
+    "MaxEnergy" : 150,
+    "shell_0" : 6,
+    "recoveryTime" : 5.0,
+    "bulletSpeed" : 10.0
+}

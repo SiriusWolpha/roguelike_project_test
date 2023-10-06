@@ -1,0 +1,7 @@
+{
+    "id" : 2,
+    "name" : "饮鸠止渴",
+    "description" : "用1点血量换30点能量",
+    "skillTime" : 0,
+    "intervalTime" : 40.0,
+}

@@ -1,0 +1,8 @@
+{
+    "id" : 1,
+    "name" : "冲刺",
+    "description" : "向前高速冲刺一段距离",
+    "skillTime" : 1.0,
+    "intervalTime" : 15.0,
+    "fastSpeed" : 5.0
+}

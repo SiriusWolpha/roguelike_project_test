@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 7f87085d6820f2f4fb2807e1d423e5e7
+timeCreated: 1696489035
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - noWeaponAvatar: {fileID: 21300000, guid: ff71ed20cc983914bb2079f013ff8265, type: 3}
+  - withWeaponAvatar1: {fileID: 21300000, guid: 4d1b1eb2093ebed41916d0696990768b,
+      type: 3}
+  - withWeaponAvatar2: {fileID: 21300000, guid: 8f39f98c136edf24a8830a556a683281,
+      type: 3}
+  - withWeaponAvatar3: {fileID: 21300000, guid: b28959c02212a5e44968d935ab5e517f,
+      type: 3}
+  - withWeaponAvatar4: {fileID: 21300000, guid: 454e1f01c9cb9d24985912616a82f67f,
+      type: 3}
+  - withWeaponAvatar5: {fileID: 21300000, guid: a7480e63530b52e418c214a54d948ce4,
+      type: 3}
+  - w0: {fileID: 1145435747736726, guid: f8113cf7afbf72e4db445e79925b26c4, type: 2}
+  - w1: {fileID: 1877923134196222, guid: ffb20af7fff5b2c4baca47d38c163f07, type: 2}
+  - w2: {fileID: 1468093771744218, guid: 90c01abc4c8b7d447a2ee3292e22d2ec, type: 2}
+  - w3: {fileID: 1773146869502968, guid: 3d86a180ee3eef7479979f3b7d580257, type: 2}
+  - w4: {fileID: 1214748307755792, guid: c718a3cf2523c2d468b7abb8e051f417, type: 2}
+  - g1P: {fileID: 1162139033645630, guid: c49c5cb50facfeb4b9e056ab708124fc, type: 2}
+  - g2P: {fileID: 1720587434698868, guid: 9b5de68c68bd93749b09fd7249f2fbda, type: 2}
+  - g3P: {fileID: 1361158841774240, guid: ddb8a1ec4821bea4ab80edcb266400f4, type: 2}
+  - g4P: {fileID: 1857797296278646, guid: a123460e6e201ce43b56a0fb3a7f3a82, type: 2}
+  - kfP: {fileID: 1123568619612654, guid: 64a04210aca57d84faa9b3ce8af047d7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
